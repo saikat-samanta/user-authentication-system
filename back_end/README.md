@@ -3,6 +3,8 @@
 A complete user authentication app using React js and Node.js.
 MongoDB is using as a NoSQL database.
 
+# create your .env file.
+
 # Start Back-end Server
 
 ## 1. cd back_end
